@@ -1,0 +1,35 @@
+button{
+    
+    text-align: center;
+    width:150px;
+    padding: 0%;
+    height: 150px;
+    display: inline-block;
+
+    background-color: aqua;
+    margin:0px;
+    border: 2px double black;
+
+    left: 50%;
+    
+    font-size: 25px;
+    cursor: pointer;
+    font-weight: bold;
+}
+body{
+    background-color: orange;
+    text-align: center;
+}
+#myButton{
+    width: 90px;
+    height: 40px;
+    background-color: black;
+    margin: 15px;
+    color: white;
+
+}
+h1{
+    background-color: lightblue;
+    color: hotpink;
+    text-align: center;
+}
